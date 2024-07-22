@@ -1,0 +1,6 @@
+@BitcoinBlockSolution_HostAddress = http://localhost:5150
+
+GET {{BitcoinBlockSolution_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
